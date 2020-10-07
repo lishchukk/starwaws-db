@@ -1,2 +1,2 @@
-# starwaws-db
-1234
+# starwars-db
+# react.js и работа с сервером
